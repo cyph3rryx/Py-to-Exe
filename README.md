@@ -19,7 +19,7 @@ To use the PyToExe Converter script, follow these steps:
 
     The converted .exe file will be saved to the output directory.
 
-Requirements
+## Requirements
 
     Python 3.6 or higher
     PyInstaller library (pip install pyinstaller)
