@@ -1,4 +1,4 @@
-PyToExe Converter
+# PyToExe Converter
 
 PyToExe Converter is a Python script that converts .py files to .exe files for easy distribution and execution on Windows computers. This script uses the PyInstaller library to create standalone executable files from Python scripts.
 Usage
@@ -24,9 +24,10 @@ Requirements
     Python 3.6 or higher
     PyInstaller library (pip install pyinstaller)
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-Contributing
+
+## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request with your changes.
